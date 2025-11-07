@@ -1,0 +1,5 @@
+{
+  "name": "CrediScan",
+  "description": "An intelligent web application that uses AI to parse PDF credit card statements, extracting key information like due dates, total balance, and transaction details into a structured, easy-to-read format.",
+  "requestFramePermissions": []
+}
